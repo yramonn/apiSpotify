@@ -10,3 +10,6 @@ This is a project where we use Feign to consume the spotify API
 - Spring Boot
 - Spring Cloud Open Feign
 - Spotify
+
+# Docs
+- https://developer.spotify.com/documentation/web-api/reference/get-new-releases
